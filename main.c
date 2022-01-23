@@ -1,10 +1,4 @@
-/*
-    Pratush Kc
-    Computing II Fall 2021
-    Daily 8
-    12/5/2021
-    Resubmission
-*/
+
 
 #include <stdio.h>
 #include "priority_queue.h"
